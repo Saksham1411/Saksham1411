@@ -2,10 +2,8 @@
 💫 About Me:
 -🎓 I'm a passionate tech student currently pursuing a degree in Computer Science Branch.<br><br>-🌱 Currently, I'm sharpening my skills in Full Stack Web Development.<br><br>-🌐 Check out my GitHub repositories to explore my projects and code samples. Don't forget to leave a ⭐️ if you find anything interesting or useful!
 <br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham1411" alt="saksham1411" /></a> </p>
-
 - 🌱 I’m currently learning **Full Stack development**
-
+<br><br>
 - 📫 How to reach me **saksham.gupta1411@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,6 +18,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham1411&label=Profile%20views&color=0e75b6&style=flat" alt="saksham1411" /> </p>
 <br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham1411" alt="saksham1411" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham1411&show_icons=true&locale=en&layout=compact" alt="saksham1411" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham1411&show_icons=true&locale=en" alt="saksham1411" /></p>
