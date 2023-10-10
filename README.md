@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-💫 About Me:
+<h3>💫 About Me:</h3>
 -🎓 I'm a passionate tech student currently pursuing a degree in Computer Science Branch.<br><br>-🌱 Currently, I'm sharpening my skills in Full Stack Web Development.<br><br>-🌐 Check out my GitHub repositories to explore my projects and code samples. Don't forget to leave a ⭐️ if you find anything interesting or useful!
 <br><br>
-- 🌱 I’m currently learning **Full Stack development**
-<br><br>
-- 📫 How to reach me **saksham.gupta1411@gmail.com**
-
+- 📫 How to reach me <a href="saksham.gupta1411@gmail.com">saksham.gupta1411@gmail.com</a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saksham1411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham1411" height="30" width="40" /></a>
